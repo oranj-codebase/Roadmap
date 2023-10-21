@@ -1,5 +1,7 @@
 # Oranj dev roadmap
- Components + Quality Testing + Launch> 
+
+##  Components for website hosting on bitcoin w/ file storage + Quality Testing + Launch 
+
 - **Components**
     - [ ]  **Elastic Stable Canister Storage**
          - [ ]  An append-only canister storage that increases dynamically according to usage.
