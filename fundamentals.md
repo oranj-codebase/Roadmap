@@ -1,6 +1,6 @@
-![Web 3.0 fundamentals](https://docs.google.com/presentation/d/1sHeT63R5VzrjNO7h5W2h_jDjk3BXn0QuheMa9HaWcto/edit?usp=sharing)
+Web 3.0 fundamentals >>> https://docs.google.com/presentation/d/1sHeT63R5VzrjNO7h5W2h_jDjk3BXn0QuheMa9HaWcto/edit?usp=sharing
 
-For the Oranj team
+## For the Oranj team
 
 ---
 **What is web 3.0?**
