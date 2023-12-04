@@ -53,4 +53,7 @@ We will be using ICP to empower our systems – smart contracts on ICP are calle
 With a base layer as bitcoin, which provides unmatched security and transparency, ICP is a sidechain that provides the programmable layer on top.
 
 ---
-
+###TODO
+> add digital asset comparison
+> web 2 vs web 3 vs oranj
+> why shift to digital?
